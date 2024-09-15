@@ -1,0 +1,10 @@
+13:01:20.109 [main] INFO  Demo.class - application launched
+13:01:20.775 [main] INFO  Demo.class - username entered
+13:01:20.913 [main] FATAL Demo.class - Fatal - paasword entered
+13:01:21.674 [main] INFO  Demo.class - page submiited
+13:01:21.727 [main] ERROR Demo.class - user not login
+13:05:18.796 [main] INFO  Demo.class - application launched
+13:05:18.915 [main] INFO  Demo.class - username entered
+13:05:19.048 [main] FATAL Demo.class - Fatal - paasword entered
+13:05:19.785 [main] INFO  Demo.class - page submiited
+13:05:19.839 [main] ERROR Demo.class - user not login
